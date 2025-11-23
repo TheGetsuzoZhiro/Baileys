@@ -1,16 +1,16 @@
 {
-    "name": "tenka-san/WaBails",
+    "name": "TheGetsuzoZhiro/Baileys",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By 7eppeli",
+    "description": "WhatsApp Modified By RaditXml",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/tenka-san/WaBails",
+    "homepage": "https://github.com/TheGetsuzoZhiro/Baileys",
     "repository": {
-        "url": "https://github.com/tenka-san/WaBails"
+        "url": "https://github.com/TheGetsuzoZhiro/Baileys"
     },
     "license": "MIT",
-    "author": "7eppeli - Determinator",
+    "author": "Getsuzo - Company",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://tenka-san/WaBails/issues"
+      "url": "https://TheGetsuzoZhiro/Baileys/issues"
     }
 }
