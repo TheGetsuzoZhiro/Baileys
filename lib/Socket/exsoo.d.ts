@@ -1,4 +1,3 @@
-// dugong.d.ts
 import { proto } from "../../WAProto";
 
 declare namespace exsoo {
