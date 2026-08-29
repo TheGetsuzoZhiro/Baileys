@@ -39,14 +39,15 @@ _GetsuZoBot Adalah_ **Ekosistem Modular** _Yang Dirancang Untuk_ **Otomatisasi, 
 
 _Dengan_ **Integrasi Sistematis** _Yang_ **Stabil** _Dan_ **Framework** _, GetsuzoBot Memungkinkan Kamu:_
 
-```› Integrasi Eksploitasi Dan Intelijen```
+`› Integrasi Eksploitasi Dan Intelijen`
 
-```› Fokus Pada Efektivitas Dan Kemudahan User```
+`› Fokus Pada Efektivitas Dan Kemudahan User`
 
 _Built Not Just To Assist, But To Dominate The Flow Of Data._
 
 ### ⚙️ Core Capabilities Overview
-*Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan, Efisien, Dan Stabil.*
+
+_Daftar Lengkap Fitur Untuk Eksplorasi, Analisa, Dan Automasi Digital Yang Elegan, Efisien, Dan Stabil._
 
 **⚔️ 1. Xploiter Suite**
 
